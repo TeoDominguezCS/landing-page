@@ -116,9 +116,6 @@ a{
             height: 352px;
             border-radius: 12px 12px 12px 12px; 
         }
-    .spotify iframe{
-        
-    }
 
 /* content two */
 .content-two{
@@ -213,4 +210,24 @@ input{
     flex-grow: 1;
     flex-basis:100%;
     height: 2.85rem;
+}
+/*tag*/
+.tag{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.tag ul{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    list-style: none;
+}
+.tag img{
+    height: 50px;
+    width: 50px;
+}
+#teo{
+    text-decoration: underline;
 }
