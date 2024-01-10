@@ -15,9 +15,7 @@ body {
     color: black;
     display: flex;
     margin: 0;
-    padding: 0px 16px 0px 16px;
     flex-direction: column;
-    background-color: rgb(40, 40, 40);
 }
 a{ 
     text-decoration: none;
@@ -37,8 +35,8 @@ a{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
     
 }
     .header .title{
