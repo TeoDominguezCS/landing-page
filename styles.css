@@ -15,7 +15,7 @@ body {
     color: black;
     display: flex;
     margin: 0;
-    padding: 0;
+    padding: 0px 16px 0px 16px;
     flex-direction: column;
     background-color: rgb(255, 255, 255);
 }
